@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    float:right;
+    margin:10px;
+}
+
+#navbar {
+    padding: 10px;
+}
+
+#sidebar {
+    background-color: cadetblue;
+    width: 25%;
+    float: left;
+}
